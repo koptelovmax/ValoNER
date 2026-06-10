@@ -1,0 +1,9 @@
+streamlit == 1.40.0
+transformers == 4.44.2
+sentencepiece == 0.1.99
+numpy == 1.26.4
+nltk == 3.8.1
+spacy == 3.7.2
+gliner == 0.2.11
+sentence-transformers == 2.3.1
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz#egg=en_core_web_sm
